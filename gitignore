@@ -1,0 +1,20 @@
+# Maven target directory
+/target/
+
+# Test output reports
+/test-output/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Logs
+/logs/
+*.log
+
+# Screenshots (optional - keep some for repo evidence)
+/screenshots/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

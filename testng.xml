@@ -1,0 +1,7 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:\Users\User\IdeaProjects\CS522_Selenium/src/CS522FinalProject/tests">
+        <classes>
+            <class name = "CS522FinalProject.tests.EbayHolidayShoppingFinal"></class>
+        </classes>
+    </test>
+</suite>
