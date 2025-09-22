@@ -1,6 +1,6 @@
 # 🛒 Ecommerce-TestAutomation-Suite
 
-This repository contains my Final Project for CS522 - Software Quality Assurance & Test Automation.
+This repository contains Project for Software Quality Assurance & Test Automation.
 It is a comprehensive Selenium TestNG automation framework that simulates a real-world E-commerce shopping workflow on Ebay.
 
 The framework demonstrates end-to-end test automation practices, including data-driven testing with Excel, logging, exception handling, screenshots, and modular test execution. It was built as part of my graduate coursework but is structured to reflect industry-level QA automation standards.
